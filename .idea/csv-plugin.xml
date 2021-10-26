@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="$PROJECT_DIR$/../Recipe_Engine/src/output/recipe_avg_time.csv/part-00000-77abd713-4453-4d72-8528-510d4f5abae5-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Recipe_Engine/src/output/recipe_avg_time.csv/part-00000-bfc1d8c8-af9f-409c-bf49-3203dcffaddf-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Recipe_Engine/src/tests/HelloFresh_Recipe/hellofresh_recipe_expected_transformed_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Recipe_Engine/src/tests/HelloFresh_Recipe/test_recipe_avg_time.csv/part-00000-61a6f02e-8359-4b1d-8d6f-16d8c14a7bc6-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Recipe_Engine/src/tests/HelloFresh_Recipe/test_recipe_avg_time.csv/part-00000-e2b8753c-1aa8-4960-96cb-588478d7647c-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
